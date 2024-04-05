@@ -1,6 +1,6 @@
-import Layout from "./ui/Layout";
-import Navbar from "./ui/Navbar";
-import OfferBar from "./ui/OfferBar";
+import Layout from "./ui/components/Layout";
+import Navbar from "./ui/components/Navbar";
+import OfferBar from "./ui/components/OfferBar";
 
 export default function Home() {
   return (
