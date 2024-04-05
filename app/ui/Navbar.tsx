@@ -5,7 +5,7 @@ import SearchIcon from "./SearchIcon";
 
 export default function Navbar() {
   return (
-    <nav className="h-1440 w-full px-12 py-2">
+    <nav className="h-100 w-full px-10 py-2 fixed top-0 z-10 flex flex-col justify-between">
       <div className="flex justify-end gap-4 h-9 items-center">
         <p className=" text-xs font-normal leading-4 text-left">Help</p>
         <p className=" text-xs font-normal leading-4 text-left">
